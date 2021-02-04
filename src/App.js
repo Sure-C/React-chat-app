@@ -8,8 +8,8 @@ const App = () => {
         <ChatEngine
         height ='100vh'
         projectID="477d19f4-6747-47c0-a3cc-c75fa87ff1fe"
-        userName=""
-        userSecret=""
+        userName="Admin"
+        userSecret="admin1qaz!QAZ"
         />
         
     )
